@@ -1,0 +1,3 @@
+Time of Transaction: Wed Aug 07 10:40:24 2024
+Transaction Type: TRANSFER($2222.00 to A)
+

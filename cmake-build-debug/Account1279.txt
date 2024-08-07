@@ -1,0 +1,4 @@
+Time of Transaction: Wed Aug 07 10:33:50 2024
+Transaction Type: DEPOSIT($1000.00)
+Time of Transaction: Wed Aug 07 10:34:42 2024
+Transaction Type: TRANSFER($500.00 to Alli)

@@ -1,0 +1,2 @@
+Time of Transaction: Wed Aug 07 10:02:06 2024
+Transaction Type: WITHDRAWAL($5000.00)

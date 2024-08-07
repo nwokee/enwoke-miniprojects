@@ -1,0 +1,2 @@
+Time of Transaction: Wed Aug 07 00:00:03 2024
+Transaction Type: DEPOSIT($100000.00)

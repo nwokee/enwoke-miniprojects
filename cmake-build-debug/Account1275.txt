@@ -1,0 +1,6 @@
+Time of Transaction: Wed Aug 07 10:39:11 2024
+Transaction Type: TRANSFER($999.00 to Alli)
+
+Time of Transaction: Wed Aug 07 10:39:11 2024
+Transaction Type: TRANSFER($999.00 from Ebube)
+
